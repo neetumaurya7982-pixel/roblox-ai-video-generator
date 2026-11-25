@@ -1,0 +1,6 @@
+Noob character asset placeholder.
+Required format: GLB
+Style: Detailed Roblox 3D avatar
+Rig: Humanoid
+Expressions: Happy, Sad, Angry, Surprised
+Animations: Idle, Walk, Run, Jump
